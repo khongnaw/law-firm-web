@@ -1,0 +1,14 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "law firm site",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "khongnaw",
+  "license": "ISC",
+  "dependencies": {
+    "semantic-ui": "^2.2.10"
+  }
+}
