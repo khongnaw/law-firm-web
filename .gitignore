@@ -2,7 +2,6 @@ docs/node_modules/
 docs/coverage/
 docs/semantic/src/**/site/
 docs/semantic/src/theme.config
-docs/semantic.json
 docs/semantic/tasks/**/oauth.js
 
 # src - https://github.com/Semantic-Org/Semantic-UI/blob/master/.gitignore 
